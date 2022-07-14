@@ -1,0 +1,10 @@
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\25.DersSqlCompiler\25.DersSqlCompiler\obj\Debug\25.DersSqlCompiler.csproj.AssemblyReference.cache
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\25.DersSqlCompiler\25.DersSqlCompiler\obj\Debug\_25.DersSqlCompiler.Form1.resources
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\25.DersSqlCompiler\25.DersSqlCompiler\obj\Debug\_25.DersSqlCompiler.Properties.Resources.resources
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\25.DersSqlCompiler\25.DersSqlCompiler\obj\Debug\25.DersSqlCompiler.csproj.GenerateResource.cache
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\25.DersSqlCompiler\25.DersSqlCompiler\obj\Debug\25.DersSqlCompiler.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\25.DersSqlCompiler\25.DersSqlCompiler\bin\Debug\25.DersSqlCompiler.exe.config
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\25.DersSqlCompiler\25.DersSqlCompiler\bin\Debug\25.DersSqlCompiler.exe
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\25.DersSqlCompiler\25.DersSqlCompiler\bin\Debug\25.DersSqlCompiler.pdb
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\25.DersSqlCompiler\25.DersSqlCompiler\obj\Debug\25.DersSqlCompiler.exe
+C:\Users\Hasan\OneDrive\Masaüstü\Çalışma-Proje\UdemyMuratYücedağ25derste25proje\25.DersSqlCompiler\25.DersSqlCompiler\obj\Debug\25.DersSqlCompiler.pdb
